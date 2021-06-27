@@ -1,0 +1,105 @@
+.mainsection p{
+    color: white;
+    text-align: center;
+}
+
+.mainsection{
+    background-color: green;
+    height: 50%;
+
+}
+h1{
+    text-align: center;
+    padding-top: 96px;
+    
+}
+.linksection{
+   display: flex;
+   background-color: black;
+   color: white;
+   height: 8%;
+}
+.link{
+    text-align: center;
+    width: 9%;
+    padding-top: 15px;
+    
+    }
+.link a{
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: grey;
+    
+}
+.link a:hover{
+    color: black;
+}
+.contentsection{
+    background-color: aqua;
+    height: 120%;
+    display: flex;
+    flex-direction: row;
+
+}
+.about{
+    background-color:lightgray;
+    height: 100%;
+    width: 40%;
+}
+.titlesection{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 60%;
+}
+.imagelayout{
+    height: 162px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 41px
+}
+
+.image1{
+    background-color: darkgray;
+    height: 10%;
+    /* margin: auto; */
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+    margin-bottom: 10px;
+}
+ h2{
+    margin-left: 20px;
+}
+h4{
+    margin-left: 20px;
+}
+
+.image1 p{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.titleimage{
+    height: 161px;
+    background-color: brown;
+    
+    margin-left: 20px;
+    margin-right: 25px;
+}
+.titlesection  p{
+    padding-left: 20px;
+}
+.footer p{
+    text-align: center;
+    color: black;
+    padding-top: 38px;
+}
+.footer{
+    text-align: center;
+     color: green;
+    /* font-size: 30px; */
+    background-color: grey;
+    height: 82px;
+}
